@@ -1,5 +1,5 @@
-# CreditCard
-Credit Card Fraud Detection
+# Credit Card Fraud Detection
+
 This repository contains a Python script for detecting credit card fraud using various visualization and machine learning techniques. The dataset consists of 50,000 credit card transactions, each labeled as fraudulent or non-fraudulent.
 
 Overview
